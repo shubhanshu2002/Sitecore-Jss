@@ -1,0 +1,7 @@
+id: Service_2
+displayName: Serivice2
+
+template: Social_services
+fields:
+  serviceTitle: Linkdin
+  serviceDesc: True generator on the Internet. It uses a
